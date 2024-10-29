@@ -1,5 +1,3 @@
-# Styled Registration Form
-
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
